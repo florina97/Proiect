@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ora='date +"%h:%m"'
-echo  Ora este:${ora}
+echo  Ora este :${ora}
